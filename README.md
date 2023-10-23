@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🖐️Hello, I'm 9Santi! <br> I am a French developer.<br><br>🌱 I'm currently learning fullstack!<br><br>Be patient!
+🖐️Hello, I'm 9Santi! <br> I am a French developer.<br><br>🌱
 
 ## 🌐 Socials:
 
